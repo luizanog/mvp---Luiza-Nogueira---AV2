@@ -1,0 +1,6 @@
+{
+  "name": "TrendVision",
+  "description": "The future of inspiration, curated. A premium trend discovery platform blending minimalism and glassmorphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
